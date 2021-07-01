@@ -1,0 +1,32 @@
+.sun-icon {
+  color: rgb(255, 208, 0);
+  font-size: 40px;
+}
+.card {
+  margin: 20px auto;
+  border-radius: 10px;
+  max-width: 600px;
+  background-color: rgb(192, 155, 178);
+}
+.temp-scale {
+  font-size: 20px;
+  position: relative;
+  top: -35px;
+  font-weight: bold;
+}
+.city {
+  font-size: 30px;
+}
+.temperature {
+  font-size: 68px;
+}
+.description {
+  text-transform: capitalize;
+}
+ul {
+  margin: 0 0 10px;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
